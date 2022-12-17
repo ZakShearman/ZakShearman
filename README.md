@@ -1,8 +1,14 @@
-### Hi there!
+# Hi there 👋
 
-![boop](https://github-readme-stats.vercel.app/api?username=ZakShearman&count_private=true&show_icons=true&theme=midnight-purple)
+I'm Zak - A backend developer interested in game development and microservices
 
-![boople](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakShearman&theme=midnight-purple&layout=compact)
+## Technologies
+
+![boop](https://skillicons.dev/icons?i=java,gradle,spring,go,mongodb,postgres,redis,grafana,prometheus,kubernetes&theme=dark&perline=10)
+
+## Activity
+
+![boops](https://github-readme-stats.vercel.app/api?username=ZakShearman&count_private=true&show_icons=true&theme=midnight-purple)
 
 Since I use orgs for some of my work, be sure to also check out:
   - [smart-giveaways](https://github.com/SmartGiveaways)
