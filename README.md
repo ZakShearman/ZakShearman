@@ -8,7 +8,7 @@ I'm Zak - A backend developer interested in game development and microservices
 
 ## Activity
 
-![boops](https://github-readme-stats.vercel.app/api?username=ZakShearman&count_private=true&show_icons=true&theme=midnight-purple)
+![boops](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZakShearman&count_private=true&show_icons=true&theme=midnight-purple)
 
 Since I use orgs for some of my work, be sure to also check out:
   - [smart-giveaways](https://github.com/SmartGiveaways)
