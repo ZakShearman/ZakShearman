@@ -10,8 +10,6 @@ I have deep experience writing Java and Golang applications + microservices, bui
 
 ## Activity
 
-![woah](https://github-readme-stats.vercel.app/api?username=ZakShearman&count_private=true&show_icons=true&theme=midnight-purple)
-
 Since I use orgs for some of my work, be sure to also check out:
   - [emortalmc](https://github.com/emortalmc/) - A Minecraft server written for Kubernetes in Java and Golang utilising Kafka and Microservice infra
   - [smart-giveaways](https://github.com/SmartGiveaways)
